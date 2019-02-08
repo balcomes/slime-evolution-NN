@@ -1,5 +1,2 @@
-numpy
-matplotlib
-itertools
-collections
-random
+numpy = 1.13.3
+matplotlib = 2.2.2
